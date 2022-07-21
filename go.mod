@@ -32,7 +32,7 @@ require (
 	github.com/go-ldap/ldap/v3 v3.4.1
 	github.com/go-logr/logr v0.3.0
 	github.com/go-logr/zapr v0.2.0
-	github.com/go-redis/redis/v8 v8.11.4
+	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gobwas/glob v0.2.3
 	github.com/google/uuid v1.3.0
@@ -45,8 +45,8 @@ require (
 	github.com/labstack/echo/v4 v4.7.2
 	github.com/liamylian/jsontime/v2 v2.0.0
 	github.com/lib/pq v1.10.4
-	github.com/onsi/ginkgo v1.16.4
-	github.com/onsi/gomega v1.17.0
+	github.com/onsi/ginkgo v1.16.5
+	github.com/onsi/gomega v1.18.1
 	github.com/orcaman/concurrent-map v1.0.0
 	github.com/phf/go-queue v0.0.0-20170504031614-9abe38d0371d
 	github.com/pkg/errors v0.9.1
